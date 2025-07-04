@@ -15,4 +15,4 @@
 - 객체 크기가 너무 작은 이미지 제거
 
 # Output
-- 전처리 결과 5장의 이미지 '/preprocessed_samples/'에 저장
+- 전처리 결과 5장의 이미지  '/preprocessed_samples/'에 저장
